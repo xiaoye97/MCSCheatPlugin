@@ -1,7 +1,7 @@
 # MCSCheatPlugin
 《觅长生》的修改器Mod
 
-当前最新版本1.1.0，基于游戏测试版0.9.2.329版本制作
+当前最新版本1.2.0，基于游戏测试版0.9.2.330版本制作
 
 ![Preview1](Preview/Preview1.png)
 ![Preview2](Preview/Preview2.png)
